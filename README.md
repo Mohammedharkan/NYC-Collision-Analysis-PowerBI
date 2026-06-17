@@ -1,4 +1,5 @@
 # NYC Collision Analysis Dashboard – Power BI
+![NYC Dashboard](nyc-dashboard.png)
 
 ## Project Overview
 
